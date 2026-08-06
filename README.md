@@ -1,57 +1,152 @@
-# 👋 Hi, I am PRATHAM! (asurxeth)
+# Hi, I'm Pratham 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/0xBlurr"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-</p>
+**Android Engineer • Full Stack Developer • Systems Builder**
 
----
+I enjoy building products that feel effortless to use while hiding complex engineering underneath.
 
-### 🚀 About Me
-I am a passionate **Web3 / Cryptocurrency Developer**, **Full-Stack Engineer**, and **UI/UX Design Systems enthusiast**. I love bridging the gap between cutting-edge decentralized technology, robust backend logic, and highly interactive, visually striking frontend interfaces. Whether it's crafting on-chain architectures or architecting custom design systems, I focus on performance, security, and exceptional user experiences.
+My primary focus is creating scalable Android applications with **Jetpack Compose**, designing performant backend systems, and solving real-world product problems through thoughtful software architecture.
+
+Currently I'm building **PALZEE** — a next-generation social platform focused on private micro-vlogging, local-first media experiences, and seamless real-time interaction.
 
 ---
 
-### 🛠 Fields of Interest & Focus
-- 🌐 **Web3 & Cryptocurrency Development:** Building decentralized applications (dApps), integrating crypto wallets, smart contracts, and exploring on-chain ecosystems.
-- 💻 **Full-Stack Development:** Architecting scalable APIs, responsive web interfaces, and fluid cross-platform or native application workflows.
-- 🎨 **UI/UX Design Systems:** Designing highly optimized component libraries, interactive micro-animations, custom layouts, and modern aesthetics (like Glassmorphism and dark mode experiences).
+## About Me
+
+* 📱 Android Developer specializing in **Jetpack Compose**
+* ⚡ Performance-first engineering mindset
+* 🏗 Interested in scalable backend architecture & distributed systems
+* 🎨 Passionate about intuitive UI/UX and polished product design
+* 🌱 Always exploring modern Android APIs, cloud infrastructure, and developer tooling
 
 ---
 
-### 🧰 Tech Stack & Skills
+# Technical Expertise
 
-#### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+### Mobile
 
-#### **Frameworks & UI Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/UI/UX_Design_Systems-FF61F6?style=flat-square&logo=figma&logoColor=white" alt="Design Systems" />
-</p>
+* Kotlin
+* Jetpack Compose
+* Material 3
+* CameraX
+* Media3
+* ExoPlayer
+* Navigation Compose
+* Coroutines
+* Flow
+* MVVM
+* Clean Architecture
+
+### Backend
+
+* Supabase
+* PostgreSQL
+* REST APIs
+* Authentication
+* Row Level Security
+* Edge Functions
+
+### Languages
+
+* Kotlin
+* Java
+* TypeScript
+* JavaScript
+* SQL
+
+### Frontend
+
+* React
+* Next.js
+* Vite
+* Tailwind CSS
+
+### Tools
+
+* Android Studio
+* Git
+* GitHub
+* Firebase
+* Figma
+* Postman
+* Docker
 
 ---
 
-### 📊 GitHub Stats
+# Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asurxeth&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="asurxeth's GitHub Stats" />
-</p>
+## PALZEE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asurxeth&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+A modern Android-first social platform built around private connections instead of public engagement.
+
+### Highlights
+
+* Native Android application
+* Local-first media architecture
+* CameraX based capture pipeline
+* Media3 playback engine
+* Offline caching
+* Real-time synchronization
+* Supabase backend
+* Modern Material 3 UI
+* Optimized networking
+* High-performance scrolling
+* Modular architecture
+
+The project emphasizes production-grade engineering practices including maintainability, performance optimization, scalable architecture, and thoughtful user experience.
 
 ---
 
-### 📫 Connect With Me
-- **LinkedIn:** [Prathmesh Upadhyay](https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/)
-- **X (Twitter):** [@0xBlurr](https://x.com/0xBlurr)
+# Engineering Philosophy
+
+I believe great software should be:
+
+* Fast before flashy
+* Simple before clever
+* Maintainable before over-engineered
+* User-first in every interaction
+
+I enjoy profiling applications, reducing unnecessary network traffic, optimizing rendering performance, and building software that remains reliable as it scales.
+
+---
+
+# Currently Exploring
+
+* Advanced Android Performance
+* Kotlin Multiplatform
+* Distributed Systems
+* Go
+* Event-Driven Architecture
+* Kafka
+* High-throughput backend systems
+* AI-assisted developer tooling
+
+---
+
+# Open Source
+
+I enjoy building side projects, experimenting with new technologies, and continuously refining existing products through better architecture and cleaner code.
+
+Open source is where I explore ideas, test engineering approaches, and share what I learn.
+
+---
+
+# Looking For
+
+I'm actively interested in opportunities involving:
+
+* Android Engineering
+* Full Stack Development
+* Mobile Infrastructure
+* Backend Engineering
+* Platform Engineering
+* Product-focused Software Engineering
+
+I'm particularly excited about teams solving challenging engineering problems, building products used at scale, and maintaining a strong engineering culture.
+
+---
+
+## Let's Connect
+
+If you're working on interesting products, open-source software, or hiring Android/Full Stack engineers, I'd love to connect.
+
+> Build with intention. Optimize relentlessly. Never stop learning.
