@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hey there, I'm Prathmesh!
+# 👋 Hey there, I'm Pratham!
 
 ### Senior Developer @ Finrein
 
