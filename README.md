@@ -100,11 +100,6 @@
 <tr>
 <td>
 
-<div align="center">
-<table width="100%" style="background-color: #0b0f19; border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 14px; padding: 18px;">
-<tr>
-<td>
-
 ```ascii
 asurxeth@system:~$ neofetch --ecosystem
  
@@ -122,19 +117,24 @@ asurxeth@system:~$ neofetch --ecosystem
   CORE SPECS  : State-Latch Keyframes (timeUs = 0)
   UPTIME      : 100% Zero-Latency · Local-First
   PROJECTS    : PALZEE Android & PALZEE Site
+```
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## 📬 Connect & Contact
 
 - 🏢 **Company:** Fin Rein Inc. (Kanpur & Lucknow, UP, India)
-- 🌐 **Website:** [https://palzee.fun](https://palzee.fun/)
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/
 - ✉️ **Email:** [pratham@palzee.fun](mailto:pratham@palzee.fun)
 - 🐙 **GitHub:** [@asurxeth](https://github.com/asurxeth)
 
 ---
 
 <div align="center">
-  <p>© 2026 <b>Pratham</b> (asurxeth) · Built with 💜 & Liquid Aesthetics.</p>
+  <p>© 2026 <b>Pratham</b> (asurxeth) · Built with 💜 </p>
 </div>
-```
