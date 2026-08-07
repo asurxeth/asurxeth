@@ -8,7 +8,7 @@
   </p>
 
   <h1 align="center">
-    <b><code>Pratham</code></b> · <a href="https://github.com/asurxeth">@asurxeth</a>
+    <b><code>Pratham</code></b> · <a href="https://github.com/prathamxeth">@prathamxeth</a>
   </h1>
 
   <p align="center">
@@ -131,7 +131,7 @@ asurxeth@system:~$ neofetch --ecosystem
 - 🏢 **Company:** Fin Rein Inc. (Kanpur & Lucknow, UP, India)
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/
 - ✉️ **Email:** [pratham@palzee.fun](mailto:pratham@palzee.fun)
-- 🐙 **GitHub:** [@asurxeth](https://github.com/asurxeth)
+- 🐙 **GitHub:** [@prathamxeth](https://github.com/prathamxeth)
 
 ---
 
