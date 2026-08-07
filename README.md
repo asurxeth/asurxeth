@@ -101,7 +101,7 @@
 <td>
 
 ```ascii
-asurxeth@system:~$ neofetch --ecosystem
+prathamxeth@system:~$ neofetch --ecosystem
  
   ██████╗  █████╗ ██╗     ███████╗███████╗███████╗
   ██╔══██╗██╔══██╗██║     ╚══███╔╝██╔════╝██╔════╝
