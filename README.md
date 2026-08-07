@@ -1,127 +1,140 @@
 
 <div align="center">
 
-# 👋 Hey there, I'm Pratham!
+  <!-- Glassmorphic Hero Banner Header -->
+  <br />
+  <p align="center">
+    <img src="https://palzee.fun/android-chrome-512x512.png" alt="asurxeth Logo" width="110" style="border-radius: 28px; box-shadow: 0 20px 40px rgba(0,0,0,0.15), 0 0 50px rgba(99, 102, 241, 0.25);">
+  </p>
 
-### Senior Developer @ Finrein
+  <h1 align="center">
+    <b><code>Pratham</code></b> · <a href="https://github.com/asurxeth">@asurxeth</a>
+  </h1>
 
-<p align="center">
-  <a href="mailto:pratham@palzee.fun">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/0xBlurr">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/asurxeth">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  </a>
-</p>
+  <p align="center">
+    <b>Android Developer & Full-Stack Engineer · Founder at Fin Rein Inc.</b>
+  </p>
 
+  <p align="center">
+    <i>Building high-performance, privacy-first, zero-latency native mobile experiences and web systems.</i>
+    </p>
+
+  
+  <p align="center">
+    <a href="https://palzee.fun/" title="Live Website" style="text-decoration: none;"><img src="https://img.shields.io/badge/-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"></a>
+    <a href="https://github.com/asurxeth" title="GitHub Profile" style="text-decoration: none;"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://developer.android.com/kotlin" title="Kotlin" style="text-decoration: none;"><img src="https://img.shields.io/badge/-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+    <a href="https://developer.android.com/jetpack/compose" title="Jetpack Compose" style="text-decoration: none;"><img src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"></a>
+    <a href="https://supabase.com/" title="Supabase" style="text-decoration: none;"><img src="https://img.shields.io/badge/-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+  </p>
+
+</div>
+
+<br />
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.08) 0%, rgba(168, 85, 247, 0.08) 50%, rgba(236, 72, 153, 0.08) 100%); border-radius: 20px; padding: 24px; border: 1px solid rgba(255, 255, 255, 0.2);">
+        <h3>📱 Native Mobile Systems · ⚡ Zero-Latency Keyframe Engines · 🌊 Liquid Aesthetics</h3>
+        <p>Focused on clean architecture, local-first performance, and non-intrusive social tech.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 💬 About Me
-
-Welcome to my profile! I'm a **Senior Developer at Finrein**, where I lead native mobile development and core systems engineering. My day-to-day work revolves around solving complex technical problems—ranging from building zero-latency Android media applications to architecting real-time backend infrastructures.
-
-I'm deeply driven by software craftsmanship: writing clean, modular code, reducing execution overhead, and designing user interfaces that feel immediate, fluid, and refined. When I'm not in Android Studio or working on database schemas, I enjoy exploring modern frontend web frameworks, distributed architectures, and developer tooling.
-
----
-
-## 🎯 Areas of Expertise
-
-- 📱 **Native Android Engineering**: Jetpack Compose (Material 3), Kotlin 2.0, CameraX, Google Media3 (`ExoPlayer`), Room, Hilt, MVVM & Clean Architecture.
-- 🎬 **Low-Latency Media Processing**: Off-screen OpenGL ES 2.0 rendering, EGL surface pipelines, state-latched JPEG keyframes, and video transcoding.
-- ☁️ **Full-Stack & Cloud Infrastructure**: PostgreSQL, Supabase PostgREST & WebSocket Realtime, Node.js, Python, TypeScript, React, Next.js, and Docker.
-
----
-
-## 🛠️ Technology Stack
+## 🌟 Featured Projects
 
 <div align="center">
-
-### Languages & Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,sql" alt="Languages" />
-</p>
-
-### Mobile & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" alt="Mobile Stack" />
-</p>
-
-### Backend & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,docker,gcp" alt="Backend Stack" />
-</p>
-
-### Frontend Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="Frontend Stack" />
-</p>
-
-### Tools & Workspace
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux" alt="Tools Stack" />
-</p>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/asurxeth/PALZEE-ANDROID">PALZEE Android</a></h3>
+      <p><i>Native Android Application</i></p>
+      <p>PALZEE Android is a native, privacy-first micro-vlogging app for sharing real-time daily moments with close friends. Built with Kotlin and Jetpack Compose featuring zero-latency keyframes and zero-algorithm feeds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
+        <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white" alt="CameraX">
+        <img src="https://img.shields.io/badge/Media3-000000?style=flat-square&logo=android&logoColor=white" alt="Media3">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/asurxeth/PALZEE-SITE">PALZEE Site</a></h3>
+      <p><i>Official Web Portal & Policies</i></p>
+      <p>PALZEE Site is the official web portal for PALZEE by Fin Rein Inc., offering instant app download links, feedback tools, and legal compliance policies including Privacy and Child Safety Standards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## 🚀 Key Project Architecture Spotlight
+## 🛠️ Tech Stack & Expertise
 
-### 🎥 **PALZEE** — *Built at Finrein*
-- **Private Micro-Vlogging & Group Media Engine** engineered for close friend circles.
-- Features **0ms perceived transition latency** using keyframe JPEG state-latching while ExoPlayer mounts underneath.
-- Powered by an **OpenGL ES 2.0 off-screen video encoder** for 9:16 slideshows with rounded corner shaders, dynamic text overlays, and audio track mixing.
-- Built on a **local-first media pipeline** synchronized with Supabase PostgreSQL & WebSocket Realtime.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,java,js,html,css,tailwind,supabase,postgres,firebase,git,github,vscode" alt="asurxeth Tech Stack" />
+</p>
 
-<div align="center">
-
-```mermaid
-flowchart LR
-CameraX["CameraX Capture"] --> Latch["0ms Keyframe Latch"]
-Latch --> OpenGL["OpenGL ES Renderer"]
-OpenGL --> Cache["Local Disk Cache"]
-Cache --> Realtime["Supabase Realtime Sync"]
+```ascii
+ ⚡ TECHNICAL ECOSYSTEM MATRIX
+ ├── 📱 Native Mobile         : Kotlin 2.0+ · Jetpack Compose · CameraX · Media3 ExoPlayer · Room
+ ├── 🌐 Web & Frontend        : Modern HTML5 · CSS3 · Tailwind CSS v4 · Responsive Liquid Design
+ ├── 🗄️ Backend & Cloud       : Supabase Auth · PostgreSQL · Edge Functions · Firebase FCM
+ ├── 🔒 Security & Arch       : State-Latch Keyframes · Local-First GC · RLS · CSAM Zero-Tolerance
+ └── 🛠️ Tools & DevOps        : Gradle · Android Studio · Git · Cloudflare Edge · GitHub Actions
 ```
 
-</div>
+---
+
+<div align="center">
+<table width="100%" style="background-color: #0b0f19; border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 14px; padding: 18px;">
+<tr>
+<td>
+
+<div align="center">
+<table width="100%" style="background-color: #0b0f19; border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 14px; padding: 18px;">
+<tr>
+<td>
+
+```ascii
+asurxeth@system:~$ neofetch --ecosystem
+ 
+  ██████╗  █████╗ ██╗     ███████╗███████╗███████╗
+  ██╔══██╗██╔══██╗██║     ╚══███╔╝██╔════╝██╔════╝
+  ██████╔╝███████║██║       ███╔╝ █████╗  █████╗  
+  ██╔═══╝ ██╔══██║██║      ███╔╝  ██╔══╝  ██╔══╝  
+  ██║     ██║  ██║███████╗███████╗███████╗███████╗
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
+
+  OS          : Android Native (Kotlin 2.0+ / JVM 17)
+  HOST        : Fin Rein Inc. (Kanpur & Lucknow)
+  SHELL       : Jetpack Compose · CameraX · Media3
+  BACKEND     : Supabase Auth · PostgreSQL · Edge CDN
+  CORE SPECS  : State-Latch Keyframes (timeUs = 0)
+  UPTIME      : 100% Zero-Latency · Local-First
+  PROJECTS    : PALZEE Android & PALZEE Site
 
 ---
 
-## 📫 Let's Connect
+## 📬 Connect & Contact
+
+- 🏢 **Company:** Fin Rein Inc. (Kanpur & Lucknow, UP, India)
+- 🌐 **Website:** [https://palzee.fun](https://palzee.fun/)
+- ✉️ **Email:** [pratham@palzee.fun](mailto:pratham@palzee.fun)
+- 🐙 **GitHub:** [@asurxeth](https://github.com/asurxeth)
+
+---
 
 <div align="center">
-
-<p align="center">
-  <a href="mailto:pratham@palzee.fun">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/0xBlurr">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/asurxeth">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  </a>
-</p>
-
-<br>
-
-<sub>Designed with ❤️ by Prathmesh Upadhyay • Senior Developer @ Finrein</sub>
-
+  <p>© 2026 <b>Pratham</b> (asurxeth) · Built with 💜 & Liquid Aesthetics.</p>
 </div>
+```
