@@ -45,6 +45,10 @@
 
 ---
 
+Portfolio :  https://prathamxeth.github.io/pratham-portfolio/
+
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
